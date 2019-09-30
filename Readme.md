@@ -14,7 +14,7 @@ Click **Random Filter** button to get available filters and apply a random filte
 
 
 API in this example:
-* [DashboardViewer.AsyncMode](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.AsyncMode). Switch to asynchronous mode. The property is set in the **InitializeComponent** method.
+* [DashboardViewer.AsyncMode](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.AsyncMode). Switches to the asynchronous mode. The property is set in the **InitializeComponent** method.
 * [DashboardViewer.GetAvailableFilterValuesAsync](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.GetAvailableFilterValuesAsync(System.String)) method. Gets available master filter values for the specified dashboard item asynchronously. 
 * [DashboardViewer.SetMasterFilterAsync](https:/docs.devexpress.devx/Dashboard/DevExpress.DashboardWin.DashboardViewer.SetMasterFilterAsync.overloads) method. Selects elements in the specified master filter item asynchronously. 
 * [DashboardViewer.Initialized](https:/docs.devexpress.devx/Dashboard/DevExpress.DashboardWin.DashboardViewer.Initialized) event. Handle this event to perform asynchronous tasks on the first load.
