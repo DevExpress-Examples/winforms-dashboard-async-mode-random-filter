@@ -23,6 +23,8 @@ API in this example:
 ## Documentation 
 
 * [Asynchronous Mode](https://docs.devexpress.com/Dashboard/401305)
+* [Master Filtering](https://docs.devexpress.com/Dashboard/116912)
+
 
 ## More Examples
 
