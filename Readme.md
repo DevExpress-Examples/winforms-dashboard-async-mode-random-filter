@@ -9,7 +9,7 @@ This example demonstrates how to work in asynchronous mode to get filter values,
 
 ![screenshot](/images/screenshot.png)
 
-Click **Random Filter** button to get available filters and apply a random filter asynchronously.
+Click **Random Filter** to get available filters and apply a random filter asynchronously.
 
 ## API
 * [DashboardViewer.AsyncMode](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.AsyncMode). Switches to the asynchronous mode. The property is set in the **InitializeComponent** method.
